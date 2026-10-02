@@ -1,0 +1,6 @@
+{
+  "name": "CHRONOS — The AI Time Machine",
+  "description": "A cinematic, futuristic, interactive Time Machine web experience with 3D wormhole travel, historical eras, TEMPUS AI guide, What-If alternate timelines, speculative futures, temporal paradox engine, interactive time map, and personal time capsules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
